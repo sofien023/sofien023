@@ -72,8 +72,8 @@ Computer Science graduate specializing in **Big Data & Analytics**, based in Sfa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofien023&theme=radical&hide_border=true" />
 
