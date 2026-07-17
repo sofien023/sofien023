@@ -2,7 +2,7 @@
 
 # Hi, I'm Sofien Ghorbel 👋
 
-### Data Scientist & Software Developer | Big Data & Analytics Graduate
+### Data Scientist & Software Developer | Big Data & Data Analysis Graduate
 
 Turning raw data into meaningful insights.
 
