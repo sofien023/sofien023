@@ -20,9 +20,9 @@ Turning raw data into meaningful insights.
 
 ## 🚀 About Me
 
-Computer Science graduate specializing in **Big Data & Analytics**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
+Computer Science graduate specializing in **Big Data & Data Analysis**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
 
-- 🔭 Currently finishing my **Bachelor's in Big Data and Data Analysis** at ISIMS (Higher Institute of Computer Science and Multimedia of Sfax)
+- 🔭 Recently Graduated with a **Bachelor's Degree in Computer Science specialized in Big Data and Data Analysis** at ISIMS (Higher Institute of Computer Science and Multimedia of Sfax)
 - 💼 Recently completed a **BI & AI-powered decision support internship** at Philadelphia Pharma, building Data Warehouses, ETL pipelines, and a Text-to-SQL AI chatbot
 - 📱 Built **StudyFlow**, a cross-platform Flutter e-learning app, during a mobile development internship at ReGIM Lab
 - 🧩 Active in the **IEEE ISIMS Student Branch** as a member, puzzle creator, and former WIE webmaster
