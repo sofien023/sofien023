@@ -2,7 +2,7 @@
 
 # Hi, I'm Sofien Ghorbel 👋
 
-### Data Scientist & Software Developer | Big Data & Data Analysis Graduate
+### Data Scientist & Software Developer | Big Data & Analytics Graduate
 
 Turning raw data into meaningful insights.
 
@@ -20,9 +20,9 @@ Turning raw data into meaningful insights.
 
 ## 🚀 About Me
 
-Computer Science graduate specializing in **Big Data & Data Analysis**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
+Computer Science graduate specializing in **Big Data & Analytics**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
 
-- 🔭 Recently Graduated with a **Bachelor's Degree in Computer Science specialized in Big Data and Data Analysis** at ISIMS (Higher Institute of Computer Science and Multimedia of Sfax)
+- 🔭 Currently finishing my **Bachelor's in Big Data and Data Analysis** at ISIMS (Higher Institute of Computer Science and Multimedia of Sfax)
 - 💼 Recently completed a **BI & AI-powered decision support internship** at Philadelphia Pharma, building Data Warehouses, ETL pipelines, and a Text-to-SQL AI chatbot
 - 📱 Built **StudyFlow**, a cross-platform Flutter e-learning app, during a mobile development internship at ReGIM Lab
 - 🧩 Active in the **IEEE ISIMS Student Branch** as a member, puzzle creator, and former WIE webmaster
@@ -72,8 +72,8 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofien023&theme=radical&hide_border=true" />
 
@@ -87,11 +87,36 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 <tr>
 <td width="50%">
 
-### 🌾 Crop Recommendation System
-Machine learning API recommending optimal crops from environmental data. Full pipeline: preprocessing, normalization, and a trained classification model.
-`Python` `NumPy` `scikit-learn`
+### [🩺 DialyGo](https://github.com/sofien023/DialyGo)
+Cross-platform Flutter app revolutionizing dialysis care in Tunisia — patients schedule appointments, track mobile care units, and access virtual consultations directly from their phone.
+`Flutter` `Dart` `C++` `Healthcare`
 
 </td>
+<td width="50%">
+
+### [🍽️ RestoApp](https://github.com/sofien023/RestoApp)
+Full CRUD web application for restaurant management, built on a PostgreSQL backend with a Next.js frontend.
+`Next.js` `PostgreSQL` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🧬 Personality Dataset Manager](https://github.com/sofien023/personality-dataset-manager) ⭐
+Java/Spring backend for managing and serving a personality-trait dataset via REST endpoints.
+`Java` `Spring Boot` `Maven`
+
+</td>
+<td width="50%">
+
+### [🎮 Quiz Game](https://github.com/sofien023/Quiz_Game)
+Interactive quiz game with dynamic scoring and real-time UI updates, built entirely in vanilla JavaScript.
+`JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📚 StudyFlow — E-Learning Platform
@@ -99,8 +124,6 @@ Cross-platform Flutter app with video lessons, interactive quizzes, progress tra
 `Flutter` `Dart` `Supabase`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧠 BI & AI Decision Support
@@ -108,19 +131,12 @@ End-to-end Data Warehouse (SQL Server) with SSIS ETL pipelines, Power BI dashboa
 `SSIS` `Power BI` `Llama 3` `Vanna.AI`
 
 </td>
-<td width="50%">
-
-### 🎮 JavaScript Quiz Game
-Interactive quiz game with dynamic scoring and real-time UI updates, built entirely in vanilla JavaScript.
-`JavaScript` `HTML` `CSS`
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
-**[→ See all projects on my portfolio](https://sofienghorbel.me/#projects)**
+**[→ See all repos on GitHub](https://github.com/sofien023?tab=repositories)** · **[→ See all projects on my portfolio](https://sofienghorbel.me/#projects)**
 
 </div>
 
@@ -129,7 +145,6 @@ Interactive quiz game with dynamic scoring and real-time UI updates, built entir
 ## 🎓 Education
 
 **Bachelor's Degree in Big Data and Data Analysis** — ISIMS, Sfax, Tunisia *(Sep 2023 – Jun 2026)*
-<br/>
 **Baccalaureate in Computer Science** — 15 November 1955 High School, Sfax *(Sep 2022 – Jun 2023)*
 
 <br/>
