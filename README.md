@@ -126,7 +126,7 @@ Cross-platform Flutter app with video lessons, interactive quizzes, progress tra
 </td>
 <td width="50%">
 
-### 🧠 BI & AI Decision Support
+### [BI Project (PFE)](https://github.com/sofien023/philadelphia-bi-2026)
 End-to-end Data Warehouse (SQL Server) with SSIS ETL pipelines, Power BI dashboards, and a Text-to-SQL AI chatbot (Llama 3 + Ollama + Vanna.AI).
 `SSIS` `Power BI` `Llama 3` `Vanna.AI`
 
