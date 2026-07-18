@@ -145,6 +145,7 @@ End-to-end Data Warehouse (SQL Server) with SSIS ETL pipelines, Power BI dashboa
 ## 🎓 Education
 
 **Bachelor's Degree in Big Data and Data Analysis** — ISIMS, Sfax, Tunisia *(Sep 2023 – Jun 2026)*
+<br/>
 **Baccalaureate in Computer Science** — 15 November 1955 High School, Sfax *(Sep 2022 – Jun 2023)*
 
 <br/>
