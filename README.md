@@ -2,7 +2,7 @@
 
 # Hi, I'm Sofien Ghorbel 👋
 
-### Data Scientist & Software Developer | Big Data & Analytics Graduate
+### Data Scientist & Software Developer | Big Data & Data Analysis Graduate
 
 Turning raw data into meaningful insights.
 
@@ -20,7 +20,7 @@ Turning raw data into meaningful insights.
 
 ## 🚀 About Me
 
-Computer Science graduate specializing in **Big Data & Analytics**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
+Computer Science graduate specializing in **Big Data & Data Analysis**, based in Sfax, Tunisia. My toolkit spans the full data pipeline — from data wrangling and preprocessing in Python and SQL, to building and evaluating machine learning models with scikit-learn, to communicating results through interactive Power BI dashboards. I also build full-stack and mobile applications to bring models into production.
 
 - 🔭 Currently finishing my **Bachelor's in Big Data and Data Analysis** at ISIMS (Higher Institute of Computer Science and Multimedia of Sfax)
 - 💼 Recently completed a **BI & AI-powered decision support internship** at Philadelphia Pharma, building Data Warehouses, ETL pipelines, and a Text-to-SQL AI chatbot
