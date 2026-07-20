@@ -8,7 +8,7 @@ Turning raw data into meaningful insights.
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5B4&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Software+Developer;Machine+Learning+%7C+Python+%7C+SQL+%7C+Power+BI;Building+ETL+Pipelines+%26+AI-Powered+Dashboards;Turning+Raw+Data+Into+Meaningful+Insights)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5B4&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Software+Developer;Machine+Learning+%7C+Python+%7C+SQL+%7C+Power+BI;Building+ETL+Pipelines+%26+AI-Powered+Dashboards;Turning+Raw+Data+Into+Meaningful+Insights)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sofienghorbel.me-00E5B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sofienghorbel.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofien-ghorbel/)
