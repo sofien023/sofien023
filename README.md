@@ -76,7 +76,7 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofien023&theme=radical&hide_border=true" />
-
+![Sofien's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofien023&theme=github_dark)
 </div>
 
 <br/>
