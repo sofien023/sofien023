@@ -72,11 +72,17 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sofien023&show_icons=true&theme=radical&hide_border=true" alt="Sofien's GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sofien023&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofien023&theme=radical&hide_border=true" />
-![Sofien's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofien023&theme=github_dark)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofien023&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofien023&theme=github_dark" alt="Sofien's GitHub Summary" />
+
 </div>
 
 <br/>
