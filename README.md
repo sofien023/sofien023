@@ -80,7 +80,7 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofien023&theme=github_dark" alt="Sofien's GitHub Summary" />
+
 
 </div>
 
