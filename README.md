@@ -10,7 +10,7 @@ Turning raw data into meaningful insights.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5B4&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Software+Developer;Machine+Learning+%7C+Python+%7C+SQL+%7C+Power+BI;Building+ETL+Pipelines+%26+AI-Powered+Dashboards;Turning+Raw+Data+Into+Meaningful+Insights)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sofienghorbel.me-00E5B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sofienghorbel.me)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-sofienghorbel.me-00E5B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sofienghorbel.me)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofien-ghorbel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofieneghorbel39@gmail.com)
 
@@ -141,7 +141,7 @@ End-to-end Data Warehouse (SQL Server) with SSIS ETL pipelines, Power BI dashboa
 
 <div align="center">
 
-**[→ See all repos on GitHub](https://github.com/sofien023?tab=repositories)** · **[→ See all projects on my portfolio](https://sofienghorbel.me/#projects)**
+**[→ See all repos on GitHub](https://github.com/sofien023?tab=repositories)** <!--· **[→ See all projects on my portfolio](https://sofienghorbel.me/#projects)**-->
 
 </div>
 
@@ -161,7 +161,7 @@ I'm open to **data science roles, freelance projects, and research collaboration
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Get%20In%20Touch-sofienghorbel.me-00E5B4?style=for-the-badge)](https://sofienghorbel.me/#contact)
+<!--[![Portfolio](https://img.shields.io/badge/Get%20In%20Touch-sofienghorbel.me-00E5B4?style=for-the-badge)](https://sofienghorbel.me/#contact)-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sofien023&color=00e5b4&style=flat-square)
 
