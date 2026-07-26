@@ -28,7 +28,7 @@ Computer Science graduate specializing in **Big Data & Data Analysis**, based in
 - 🧩 Active in the **IEEE ISIMS Student Branch** as a member, puzzle creator, and former WIE webmaster
 - 🌱 Curious about how data shapes decisions in agriculture, education, and business
 - 📫 Reach me at **sofieneghorbel39@gmail.com**
-- 🌍 Portfolio: **[sofienghorbel.me](https://sofienghorbel.me)**
+<!--- 🌍 Portfolio: **[sofienghorbel.me](https://sofienghorbel.me)**-->
 
 <br/>
 
